@@ -1,4 +1,4 @@
-![Torque Logo](images/banner1.png)
+![slot-machine](games/bicoint.png)
 ## Torque2D 4.0 Early Access 2
 
 MIT Licensed Open Source version of slot-machine from GarageGames. Maintained by the Torque Game Engines team and contributions from the community.
