@@ -1,7 +1,7 @@
 ![Torque Logo](images/banner1.png)
 ## Torque2D 4.0 Early Access 2
 
-MIT Licensed Open Source version of Torque2D from GarageGames. Maintained by the Torque Game Engines team and contributions from the community.
+MIT Licensed Open Source version of slot-machine from GarageGames. Maintained by the Torque Game Engines team and contributions from the community.
 
 Dedicated to 2D game development, slot-machine 2D is an extremely powerful, flexible, and fast C++ engine which has been used in hundreds of professional games. It is a true cross platform solution providing you access to Windows, OSX, Linux, iOS, Android, and the web - all from one codebase. It includes an OpenGL batched rendering system, Box2D physics, OpenAL audio, skeletal and spritesheet animation, automated asset management, a modular project structure, TAML object persistence, and a C-like scripting language.
 
